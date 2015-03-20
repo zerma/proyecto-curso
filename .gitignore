@@ -2,3 +2,4 @@
 .Trashes
 thumbs.db
 /build
+/db/mibasededatos.sqlite

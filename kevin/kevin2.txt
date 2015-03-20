@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Prueba de modificación para merch.
-=======
-ï»¿EdiciÃ³n de archivo desde web.
+Edición de archivo desde web.
 quiero recibir conflicto - atte oscar
->>>>>>> 7e65f123f848330b11264d157b96f9137ee51e6c

@@ -1,1 +1,2 @@
-Edición de archivo desde web.
+﻿Edición de archivo desde web.
+quiero recibir conflicto - atte oscar
